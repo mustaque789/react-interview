@@ -1,11 +1,11 @@
-import React from 'react'
+
 
 const App = () => {
-  return (
-    <div>
-      <h1>Hello react Interviews</h1>
-    </div>
-  )
+ return(
+  <>
+  <h1>Hello...123</h1>
+  </>
+ )
 }
 
 export default App
